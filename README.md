@@ -7,3 +7,5 @@ The application includes a full remote interface and a home-screen widget. It im
 ## Build
 
 GitHub Actions builds a debug APK on every push to `main` and uploads it as the `LG-IR-Magic-Remote-APK` artifact.
+
+The current verification branch exists solely to run and validate the Android APK build workflow.
