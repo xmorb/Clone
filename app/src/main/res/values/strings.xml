@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LG IR Magic Remote</string>
+    <string name="ir_ready">IR emitter detected and ready</string>
+    <string name="ir_unavailable">No Android consumer IR emitter detected</string>
+    <string name="magic_remote_limitations">Infrared can reproduce standard remote buttons. Magic Remote pointer movement, microphone input, Bluetooth pairing, and motion sensing are not transmitted through IR.</string>
+    <string name="widget_description">LG TV infrared remote controls</string>
+</resources>
